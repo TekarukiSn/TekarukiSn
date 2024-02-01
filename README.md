@@ -25,4 +25,4 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TekarukiSn&layout=donut)](https://github.com/TekarukiSn/github-readme-stats)
 <br><br>
-18 anos, paixonado por tecnologia e cursando Ciência da Computação na Unicarioca 😁
+18 anos, paixonado por tecnologia e programação, cursando Engenharia de controle e automação no CEFET NI
