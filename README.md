@@ -21,7 +21,7 @@
 
  <br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TekarukiSn&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TekarukiSn&layout=compact&theme="radical")
 
 <br><br>
 18 anos, paixonado por tecnologia e programação, cursando Engenharia de controle e automação no CEFET NI
